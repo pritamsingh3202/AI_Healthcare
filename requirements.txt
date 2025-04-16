@@ -8,10 +8,13 @@ joblib
 Groq
 speechrecognition
 pydub
-gTTS
+gtts
 os
 # tempfile
 # elevenlabs
 # logging
 # io
 # dotenv
+
+python 3.12 
+streamlit 1.43.2
