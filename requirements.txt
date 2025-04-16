@@ -11,7 +11,7 @@ pydub
 gtts
 os
 tempfile
-elevenlabs
+# elevenlabs
 logging
 io
 dotenv
