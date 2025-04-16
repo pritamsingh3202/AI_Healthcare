@@ -16,5 +16,5 @@ os
 # io
 # dotenv
 
-python 3.12 
+# python 3.12 
 streamlit 1.43.2
