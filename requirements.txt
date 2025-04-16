@@ -8,7 +8,7 @@ joblib
 Groq
 speechrecognition
 pydub
-gtts
+gTTS
 os
 # tempfile
 # elevenlabs
