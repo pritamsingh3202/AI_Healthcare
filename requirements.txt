@@ -10,8 +10,8 @@ speechrecognition
 pydub
 gtts
 os
-tempfile
+# tempfile
 # elevenlabs
-logging
-io
-dotenv
+# logging
+# io
+# dotenv
