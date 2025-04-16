@@ -6,8 +6,8 @@ from brain_doc import encode_img, analyze_img_with_query
 from voice_patient import record_audio, transcribe_audio
 from ai_voice import text_to_speech_with_gtts, text_to_speech_with_elevenlabs
 
-# from dotenv import load_dotenv
-# load_dotenv()
+from dotenv import load_dotenv
+load_dotenv()
 
 st.set_page_config(page_title="AI Doctor with Vision and Voice", layout="centered")
 
