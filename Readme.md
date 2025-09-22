@@ -1,4 +1,4 @@
-# 🩺 AI-Powered Healthcare System
+# 🩺  Healthcare System
 
 This project is a voice- and vision-enabled healthcare assistant.  
 It listens to a patient’s symptoms, looks at uploaded images (like a skin rash), and replies with a short, doctor-style opinion—both in text **and** a natural-sounding voice.
